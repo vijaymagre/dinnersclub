@@ -1,0 +1,3 @@
+how to rollback the changes in a modified file which is not yet staged
+how to discard the changes made in a repo file
+
